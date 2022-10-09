@@ -22,12 +22,19 @@
 I work as a Full-Stack Web Developer.
 
 "I'm a developer with experience developing websites for small and medium-sized businesses,"
-
 I've been working in web development for four years.
-
 I can help you win jobs, market your services, or even establish a whole internet store!
 I'm comfortable with HTML and CSS, as well as JavaScript and WordPress, Typescript, PostgresSQL, Mysql, API, and NodeJS.
 I'll oversee the entire job from conception to completion.
+  Developed multiple app solutions utilizing various coding languages and frameworks such as HTML, CSS, Postgresql, JavaScript, Typescript, and React.
+I collaborated with a team of healthcare professionals to create a medical application.
+Assisted in the establishment of several programs and services.
+Create 10 or more full-stack web apps that analyze and process data for various clients.
+Ensure the security of apps and their ability to connect with numerous APIs and databases.
+Design and build a knowledge management platform based on a knowledge graph using a variety of technologies such as Node.js, Typescript, React
+Create and deploy a stand-alone data extraction "agent" as well as main-application functionality for a financial product.
+Collaborate with the app development team, which includes the project and product manager, developers, and QA, to identify challenges, testing methodologies, and best practices.
+create and execute extremely effective app-based solutions to improve the company's complaint management procedure.
 I offer prospective customers a free 30-minute consultation to advise them and see whether there is a benefit in working together. "</h3>
 
 <h3 align="left">Languages and Tools:</h3>
