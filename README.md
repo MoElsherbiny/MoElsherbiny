@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moelsherbiny&label=Profile%20views&color=0e75b6&style=flat" alt="moelsherbiny" /> </p>
 
-- 👨‍💻 All of my projects are available at [are available on github](are available on github)
+- 👨‍💻 All of my projects are available at [are available on github]
 
 - 💬 Ask me about **JavaScript,TypeScript,react**
 
