@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [are available on github]
 
-- 💬 Ask me about **JavaScript,TypeScript,ReactJSs**
+- 💬 Ask me about **JavaScript,TypeScript,ReactJS**
 
 - ⚡ Let us construct **something magnificent.**
 
