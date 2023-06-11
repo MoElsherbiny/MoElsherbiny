@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elsherbiny</h1>
 <h3 align="center">Software Engineer | JavaScript/TypeScript Developer | Frontend Specialist | React/Redux Expert | NodeJS</h3>
 
-
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img src ="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" />
 
 "I am Mohamed Elsherbiny, a software engineer with expertise in front-end development and website development. I have been working in web development for several years and I enjoy collaborating with team members, learning from them, and sharing experiences. My proficiency includes HTML, CSS, JavaScript, WordPress, Typescript, React JS, Firebase, and AWS. Additionally, I am experienced in working with MySQL, APIs, and NodeJS."</h3>
 
