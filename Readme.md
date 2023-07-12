@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elsherbiny</h1>
 <h3 align="center">Software Engineer | JavaScript/TypeScript Developer | Frontend Specialist | React/Redux Expert | NodeJS</h3>
 
-<p align= "center"><a href="https://imagetolink.com/ib/O2L3DrmHC8"><img src="https://imagetolink.com/ib/O2L3DrmHC8.jpg" alt="O2L3DrmHC8"/></a> </p>
-<div align="center">
+![Alt text](images/Elsherbiny.gif)
+
   <h3>I am Mohamed Elsherbiny, a software engineer with expertise in front-end development and website development. I have been working in web development for several years and I enjoy collaborating with team members, learning from them, and sharing experiences. My proficiency includes HTML, CSS, JavaScript, WordPress, Typescript, React JS, Firebase, and AWS. Additionally, I am experienced in working with MySQL, APIs, and NodeJS.</h3>
 </div>
 
