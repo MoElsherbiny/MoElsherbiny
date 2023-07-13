@@ -5,7 +5,7 @@
 
 <center>
 <video width="620" height="440" controls loop muted autoplay>
-  <source src="images/target location acquired.mp4" type="video/mp4">
+  <source src="video/target location acquired 2.mp4" type="video/mp4">
 </video>
 </center>
 <div align="center">
