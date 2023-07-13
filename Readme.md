@@ -9,7 +9,7 @@
 </video>
 </center>
 <div align="center">
-  <h4>I am Mohamed Elsherbiny, a software engineer with expertise in front-end development and website development. I have been working in web development for several years and I enjoy collaborating with team members, learning from them, and sharing experiences. My proficiency includes HTML, CSS, JavaScript, WordPress, Typescript, React JS, Firebase, and AWS. Additionally, I am experienced in working with MySQL, APIs, and NodeJS.</h4>
+  <h3>I am Mohamed Elsherbiny, a software engineer with expertise in front-end development and website development. I have been working in web development for several years and I enjoy collaborating with team members, learning from them, and sharing experiences. My proficiency includes HTML, CSS, JavaScript, WordPress, Typescript, React JS, Firebase, and AWS. Additionally, I am experienced in working with MySQL, APIs, and NodeJS.</h3>
 </div>
 
 
