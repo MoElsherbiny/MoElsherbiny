@@ -4,7 +4,7 @@
 <h3 align="center">Software Engineer | JavaScript/TypeScript Developer | Frontend Specialist | React/Redux Expert | NodeJS</h3>
 
 <div align="center">
-  <h3>I am Mohamed Elsherbiny, a software engineer with expertise in front-end development and website development. I have been working in web development for several years and I enjoy collaborating with team members, learning from them, and sharing experiences. My proficiency includes HTML, CSS, JavaScript, WordPress, Typescript, React JS, Firebase, and AWS. Additionally, I am experienced in working with MySQL, APIs, and NodeJS.</h3>
+  <h3>I am Mohamed Elsherbiny, a software engineer with front-end and website development expertise. I have been working in web development for several years and I enjoy collaborating with team members, learning from them, and sharing experiences. My proficiency includes HTML, CSS, JavaScript, WordPress, Typescript, React JS, Firebase, and AWS. Additionally, I am experienced in working with MySQL, APIs, and NodeJS.</h3>
   
 
 https://github.com/MoElsherbiny/MoElsherbiny/assets/101147377/befc15f7-3abd-4446-9c97-2b29df5733ba
@@ -14,8 +14,6 @@ https://github.com/MoElsherbiny/MoElsherbiny/assets/101147377/befc15f7-3abd-4446
 
 
 - 🔭 I’m currently working on **ReactJS -E-commerce-Application**
-
-- 🌱 I’m currently learning **DevOps**
 
 - 📝 I regularly write articles on [Linux/ReactJS/Redux](Linux/ReactJS/Redux)
 
