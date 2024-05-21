@@ -7,21 +7,20 @@
   <h3>I am Mohamed Elsherbiny, a software engineer with front-end and website development expertise. I have been working in web development for several years and I enjoy collaborating with team members, learning from them, and sharing experiences. My proficiency includes HTML, CSS, JavaScript, WordPress, Typescript, React JS, Firebase, and AWS. Additionally, I am experienced in working with MySQL, APIs, and NodeJS.</h3>
   
 
-https://github.com/MoElsherbiny/MoElsherbiny/assets/101147377/befc15f7-3abd-4446-9c97-2b29df5733ba
 
 
 </div>
 
 
-- 🔭 I’m currently working on **ReactJS -E-commerce-Application**
+🔭 Currently working as a Full time web developer.
 
-- 📝 I regularly write articles on [Linux/ReactJS/Redux](Linux/ReactJS/Redux)
+📝 Regularly sharing insights through articles on Linux, ReactJS, and Redux.
 
-- 💬 Ask me about **JavaScript, ReactJS, Redux, Linux**
+💬 Happy to chat about all things JavaScript, ReactJS, Redux, and Linux.
 
-- 📫 How to reach me **mohamedelsherbiny212@gmail.com**
+📫 Reach me at mohamedelsherbinydev@gmail.com.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19IjHAUFPvjUb-y46aT_OWhVA_pb1prb8/view?usp=sharing](https://drive.google.com/file/d/19IjHAUFPvjUb-y46aT_OWhVA_pb1prb8/view?usp=sharing)
+📄 Explore my journey and experiences [here](https://drive.google.com/file/d/1zpBvfVGsNt_Pdw6G25ZFqWg3t3Rk64bV/view?usp=sharing).
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
