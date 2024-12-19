@@ -20,7 +20,7 @@
 
 📫 Reach me at mohamedelsherbinydev@gmail.com.
 
-📄 Explore my journey and experiences [here]([https://drive.google.com/file/d/1zpBvfVGsNt_Pdw6G25ZFqWg3t3Rk64bV/view?usp=sharing](https://drive.google.com/file/d/1JxVURW1agNYSDCoRkdSg4fRUTHOBliyR/view?usp=sharing)).
+📄 Explore my journey and experiences [here](https://drive.google.com/file/d/1JxVURW1agNYSDCoRkdSg4fRUTHOBliyR/view?usp=sharing).  
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
